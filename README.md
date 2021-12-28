@@ -44,8 +44,8 @@ THEN the password is either displayed in an alert or written to the page
 4. Debugging- 
 * From there, I went through my code and tested certain functions, to which I responsed and found errors and solutions that could improve and enhance my working javascript. 
 
-## Website Demo:
-![websiteDemo](assets/webdemo.mov)
+## JavaScript 
+
 
 ### Sources: 
 * https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
