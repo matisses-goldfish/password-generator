@@ -43,9 +43,9 @@ THEN the password is either displayed in an alert or written to the page
 ![websiteDemo](assets/webdemo.mov)
 
 ### Sources: 
-https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
-Tiffany Casey- https://github.com/TiffanyCasey/Password-Generator
+* https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+* Tiffany Casey- https://github.com/TiffanyCasey/Password-Generator
 
