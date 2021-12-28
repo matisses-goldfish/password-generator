@@ -45,6 +45,8 @@ THEN the password is either displayed in an alert or written to the page
 * From there, I went through my code and tested certain functions, to which I responsed and found errors and solutions that could improve and enhance my working javascript. 
 
 ## JavaScript 
+![JavaScript](assets/password.jsphoto2.png)
+![Javascript](assets/password.jsphoto2.png)
 
 
 ### Sources: 
