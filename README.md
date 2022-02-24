@@ -1,15 +1,29 @@
-# Homework: 03-Password Generator 🔑
+# Password Generator 
+[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
+#### **Name:** Honore Nelson
+#### **Deployed Link:** https://matisses-goldfish.github.io/password-generator/
+#### **Github Repo:** https://github.com/matisses-goldfish/password-generator
+---
 
-* Name: Honore Nelson
-* Date: December 17 2021
-* Weblink: https://matisses-goldfish.github.io/password-generator/
+##  Table of Contents:
+* [Description](#description)
+* [Reference](#reference)
+* [Process](#process)
+* [Sources](#sources)
+* [Installation](#installation)
+* [Usage Information](#usage)
+* [Testing Instructions](#testing)
+* [Authors](#authors)
+* [License](#license)
+* [Question](#questions)
 
 
-## My Task (reference)
 
-This week’s homework requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+## Desciprtion
+---
+This application that enables employees to generate random passwords based on criteria that they’ve selected. This app runa in the browser and featurea dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-## Acceptance Criteria (reference)
+## Reference:
 
 ```
 GIVEN I need a new, secure password
@@ -28,8 +42,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-
-## Steps:
+## Process:
 1. Pseudocode-
 * A large step of creating comprehensive JavaScript is learning how to Pseudocode. Pseudocode not only allowed me to create a step by step process of what exactly I needed to inclde in my JavaScript to create  working functions. 
 
@@ -56,3 +69,32 @@ THEN the password is either displayed in an alert or written to the page
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
 * Tiffany Casey- https://github.com/TiffanyCasey/Password-Generator
 
+
+## Usage
+---
+#### Begin by launching the deployed link and follow the brower-based prompts!
+
+## Contribution Guidelines
+---
+Contribute using the github workflow model
+    
+## Testing
+---
+N/A
+    
+## Authors
+---
+* **Honore Nelson** - *Initial work* - [Password Generator](https://github.com/matisses-goldfish/password-generator)
+    
+## License
+---
+MIT
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+<br></br>
+
+## Question
+---
+Any additional question? 
+### Contact me at:
+* Gmail: honoregn@gmail.com
+* Github: matisses-goldfish
